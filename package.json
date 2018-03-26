@@ -1,0 +1,32 @@
+{
+  "name": "meanstackpro",
+  "version": "1.0.0",
+  "description": "MEAN stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isharadikkumbura/MEANstackWithAngular2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "Angular",
+    "2"
+  ],
+  "author": "Ishara Dikkumburage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isharadikkumbura/MEANstackWithAngular2/issues"
+  },
+  "homepage": "https://github.com/isharadikkumbura/MEANstackWithAngular2#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.3"
+  }
+}
